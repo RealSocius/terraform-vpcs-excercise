@@ -1,0 +1,7 @@
+credentials/access_key
+credentials/secret_key
+
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
